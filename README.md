@@ -11,7 +11,7 @@ This Go project implements a terminal spinner to indicate progress or ongoing op
 
 ## Installation
 
-To use this spinner in your Go project, you can add it as a dependency using `go get`:
+To use this spinner in ssssyour Go project, you can add it as a dependency using `go get`:
 
 ```sh
 go get github.com/tz3/terminal-spinner/spinner
