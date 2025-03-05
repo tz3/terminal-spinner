@@ -6,7 +6,7 @@ This Go project implements a terminal spinner to indicate progress or ongoing op
 ## Features
 
 - Simple and easy-to-use API
-- Customizable frame rate and output writer
+- Customizable frame rate and output writersss
 - Predefined spinner frames for a smooth visual effect
 
 ## Installation
